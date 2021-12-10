@@ -1,0 +1,22 @@
+{
+  "name": "StaticLib",
+  "version": "0.1.0",
+  "summary": "A short description of StaticLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/loop/StaticLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "loop": "loopan0810@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/loop/StaticLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "StaticLib/Classes/**/*"
+}
